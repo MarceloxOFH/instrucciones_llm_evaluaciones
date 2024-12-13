@@ -12,7 +12,7 @@
   5. sarcasmo
   6. contenido_prohibido (violencia extrema, drogas, armas, pornografía, etc.)
   7. contradicciones
-  8. errores_gramaticales (u ortográficos)
+  8. gramatica_y_ortografia
   9. claridad (confuso, claro)
   10. formalidad (informal, neutro, formal)
 - Las evaluaciones se generan en formato JSON e incluyen un puntaje, una explicación concisa, y dependiendo de la evaluación, una clasificación.
